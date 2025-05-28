@@ -1,6 +1,6 @@
 # PERSON-DETECTION-WITH-DFPLAYER
 
-# 🚗 Ultrasonic-Based Audio Welcome & Exit System Using DFPlayer Mini
+# Ultrasonic-Based Audio Welcome & Exit System Using DFPlayer Mini
 
 This Arduino project uses **ultrasonic sensors** to detect people entering or exiting an area. When detected, it plays a **welcome** or **thank you** audio message using the **DFPlayer Mini MP3 module**.
 
